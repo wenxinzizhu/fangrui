@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemesh>
+
+    <mapping path="/bea/*" decorator="/WEB-INF/layouts/back_end_admin_main.jsp"/>
+    <mapping decorator="/WEB-INF/layouts/main.jsp"/>
+
+    <mapping path="/resources/*" exclue="true"/>
+</sitemesh>
