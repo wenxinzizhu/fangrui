@@ -14,6 +14,7 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
     <resources:css name="libs/weui.css,weixin/example.css" />
     <title>
         <sitemesh:write property='title'/>
