@@ -1,28 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-    <parent>
-        <groupId>com.hbfangrui</groupId>
-        <artifactId>fr-parent-web</artifactId>
-        <version>1.0-SNAPSHOT</version>
-    </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.hbfangrui</groupId>
     <artifactId>fr-base-web</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <url>http://maven.apache.org</url>
-    <properties>
-
-    </properties>
-
-    <profiles>
-
-    </profiles>
-
-    <dependencies>
-
-    </dependencies>
-
-    <build>
-        <finalName>base-web</finalName>
-    </build>
+    <modules>
+        <module>base-web-servlet</module>
+        <module>base-web-springmvc</module>
+    </modules>
 </project>

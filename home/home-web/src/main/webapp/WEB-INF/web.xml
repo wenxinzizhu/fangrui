@@ -15,9 +15,9 @@
     <context-param>
         <param-name>contextConfigLocation</param-name>
         <param-value>
-            WEB-INF/app-servlet.xml,
-            classpath*:spring-*.xml,
-            classpath*:services/*.xml
+            classpath*:infra/*.xml,
+            classpath*:services/*.xml,
+            classpath:resources.xml
         </param-value>
     </context-param>
 

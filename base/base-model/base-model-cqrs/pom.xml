@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.hbfangrui</groupId>
-    <artifactId>fr-home-core</artifactId>
+    <artifactId>fr-base-model-cqrs</artifactId>
     <version>1.0-SNAPSHOT</version>
     <url>http://maven.apache.org</url>
     <properties>
@@ -20,24 +20,9 @@
 
     <dependencies>
 
-        <dependency>
-            <groupId>com.hbfangrui</groupId>
-            <artifactId>fr-base-model-cqrs</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.hbfangrui</groupId>
-            <artifactId>fr-base-model-ddd</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.hbfangrui</groupId>
-            <artifactId>fr-base-infra-mongo</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
     </dependencies>
 
     <build>
-        <finalName>home-core</finalName>
+        <finalName>base-model-cqrs</finalName>
     </build>
 </project>
