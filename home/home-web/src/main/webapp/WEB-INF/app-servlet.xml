@@ -18,6 +18,8 @@
 
     <mvc:resources mapping="/resources/**" location="resources/" />
 
+    <mvc:resources mapping="2.jpg" location="resources/2.jpg" />
+
     <bean id="viewResolver"
           class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="viewClass"
