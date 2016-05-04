@@ -10,16 +10,29 @@
             <div class="weui_panel weui_panel_access">
                 <div class="weui_panel_hd">产品</div>
                 <div class="weui_panel_bd">
-                    <div class="weui_media_box weui_media_text">
-                        <h4 class="weui_media_title">标题一</h4>
-                        <p class="weui_media_desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
-                    </div>
-                    <div class="weui_media_box weui_media_text">
-                        <h4 class="weui_media_title">标题二</h4>
-                        <p class="weui_media_desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
-                    </div>
+                    <c:forEach items="${products}" var="product">
+                        <div class="weui_media_box weui_media_text">
+                            <a href="/product/detail/${product.id}" class="weui_media_title">${product.name}</a>
+                            <p class="weui_media_desc">占地面积：${product.area}平方米、系统造价：${product.cost}元、投资回收周期： ${product.recoveryPeriod}年</p>
+                        </div>
+                    </c:forEach>
                 </div>
                 <%--<a href="javascript:void(0);" class="weui_panel_ft">查看更多</a>--%>
+            </div>
+            <div class="weui_panel weui_panel_access">
+                <div class="weui_panel_hd">服务</div>
+                <div class="weui_panel_bd">
+                    <div class="weui_media_box weui_media_text">
+                        <h4 class="weui_media_title">设备质保</h4>
+                        <p class="weui_media_desc">光伏组件10年质保、20年光伏组件功率衰减不低于80%</p>
+                        <p class="weui_media_desc">控制器、逆变器、整套系统5年质保</p>
+                    </div>
+                    <div class="weui_media_box weui_media_text">
+                        <h4 class="weui_media_title">售后服务</h4>
+                        <p class="weui_media_desc">全套设备提供20年售后服务</p>
+                    </div>
+                </div>
+                    <%--<a href="javascript:void(0);" class="weui_panel_ft">查看更多</a>--%>
             </div>
         </jsp:attribute>
     </layouts:weixin_tab>
