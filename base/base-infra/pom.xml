@@ -7,6 +7,8 @@
     <version>1.0-SNAPSHOT</version>
     <url>http://maven.apache.org</url>
     <modules>
+        <module>base-infra-jpa</module>
         <module>base-infra-mongo</module>
+        <module>base-infra-redis</module>
     </modules>
 </project>
