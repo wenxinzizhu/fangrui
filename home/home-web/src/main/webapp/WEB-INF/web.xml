@@ -43,6 +43,7 @@
     <filter>
         <filter-name>sitemesh</filter-name>
         <filter-class>org.sitemesh.config.ConfigurableSiteMeshFilter</filter-class>
+        <async-supported>true</async-supported>
     </filter>
     <!--note:sitemesh filter mapping must appear after springSecurityFilterChain filter mapping-->
     <filter-mapping>
