@@ -22,8 +22,8 @@ public class CaseController extends BaseController{
         return new ModelAndView("case/index");
     }
 
-//    @RequestMapping("detail/{id}")
-//    public DeferredResult<ModelAndView> showDetail(@PathVariable("id") Integer id){
+//    @RequestMapping("detail1/{id}")
+//    public DeferredResult<ModelAndView> showDetail1(@PathVariable("id") Integer id){
 //        final DeferredResult<ModelAndView> result = new DeferredResult<>(3000l);
 //        scheduledExecutorService.schedule(
 //                ()->result.setResult(new ModelAndView("case/detail" + id)),
