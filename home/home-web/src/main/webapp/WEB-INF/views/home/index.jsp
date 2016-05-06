@@ -41,10 +41,8 @@
                          <p>
                              提供全套并网手续，协助并网工作；待成功发电并售卖给国网，收取全部费用。
                          </p>
-                         <p>
-
-                             <img src='<resources:imageHref name="image/bw.jpg" />' style="max-width:300px;overflow: hidden">
-
+                         <p style="text-align: center">
+                             <img src='<resources:imageHref name="image/bw.jpg" />' style="width: 98%;;overflow: hidden">
                          </p>
                      </section>
                  </section>
