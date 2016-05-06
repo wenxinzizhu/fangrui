@@ -23,7 +23,7 @@
                 <div class="weui_panel_hd">服务</div>
                 <div class="weui_panel_bd">
                     <div class="weui_media_box weui_media_text">
-                        <h4 class="weui_media_title">并网</h4>
+                        <h4 class="weui_media_title">并网服务</h4>
                         <p class="weui_media_desc">提供全套并网手续，并协助进行并网工作</p>
                         <p class="weui_media_desc">控制器、逆变器、整套系统5年质保</p>
                     </div>
