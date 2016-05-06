@@ -42,7 +42,7 @@
                              提供全套并网手续，协助并网工作；待成功发电并售卖给国网，收取全部费用。
                          </p>
                          <p style="text-align: center">
-                             <img src='<resources:imageHref name="image/bw.jpg" />' style="width: 98%;;overflow: hidden">
+                             <img src='<resources:imageHref name="image/bw.jpg" />' style="width: 100%;;overflow: hidden">
                          </p>
                      </section>
                  </section>
@@ -52,8 +52,8 @@
                          <p>
                              光伏产品可根据用户需要进行量身定制。
                          </p>
-                         <p>
-                             <img src='<resources:imageHref name="image/products.jpg" />' style="max-width:300px;overflow: hidden">
+                         <p style="text-align: center">
+                             <img src='<resources:imageHref name="image/products.jpg" />' style="width: 100%;overflow: hidden">
                          </p>
                      </section>
                  </section>
@@ -63,8 +63,8 @@
                          <p>
                              作为投资产品，和其他理财产品的投资收益比。
                          </p>
-                         <p>
-                             <img src='<resources:imageHref name="image/tzsy.jpg" />' style="max-width:300px;overflow: hidden">
+                         <p style="text-align: center">
+                             <img src='<resources:imageHref name="image/tzsy.jpg" />' style="width: 100%;overflow: hidden">
                          </p>
                      </section>
                  </section>
