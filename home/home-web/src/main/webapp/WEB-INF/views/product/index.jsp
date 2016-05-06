@@ -25,10 +25,10 @@
                     <div class="weui_media_box weui_media_text">
                         <h4 class="weui_media_title">并网服务</h4>
                         <p class="weui_media_desc">提供全套并网手续，并协助进行并网工作</p>
-                        <p class="weui_media_desc">控制器、逆变器、整套系统5年质保</p>
+                        <p class="weui_media_desc">待成功发电并售卖给国网，收取全部费用。</p>
                     </div>
                     <div class="weui_media_box weui_media_text">
-                        <h4 class="weui_media_title">设备质保</h4>
+                        <h4 class="weui_media_title">质保服务</h4>
                         <p class="weui_media_desc">光伏组件10年质保、20年光伏组件功率衰减不低于80%</p>
                         <p class="weui_media_desc">控制器、逆变器、整套系统5年质保</p>
                     </div>
