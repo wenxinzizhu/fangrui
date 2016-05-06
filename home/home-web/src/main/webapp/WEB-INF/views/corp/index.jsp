@@ -13,10 +13,11 @@
                     <h2 class="title">简介</h2>
                     <section>
                         <h3>1.1 节标题</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat. Duis aute</p>
+                        <p></p>
+                        <p>
+                            <img src="./images/pic_article.png" alt="">
+                            <img src="./images/pic_article.png" alt="">
+                        </p>
                     </section>
                     <section>
                         <h3>1.2 节标题</h3>
