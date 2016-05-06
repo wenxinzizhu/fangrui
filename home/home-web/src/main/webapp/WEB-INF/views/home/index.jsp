@@ -43,7 +43,7 @@
                          </p>
                          <p>
 
-                             <img src='<resources:imageHref name="image/bw.jpg" />' style="max-width:350px;overflow: hidden">
+                             <img src='<resources:imageHref name="image/bw.jpg" />' style="max-width:300px;overflow: hidden">
 
                          </p>
                      </section>
@@ -55,7 +55,7 @@
                              光伏产品可根据用户需要进行量身定制。
                          </p>
                          <p>
-                             <img src='<resources:imageHref name="image/products.jpg" />' style="max-width:350px;overflow: hidden">
+                             <img src='<resources:imageHref name="image/products.jpg" />' style="max-width:300px;overflow: hidden">
                          </p>
                      </section>
                  </section>
@@ -66,7 +66,7 @@
                              作为投资产品，和其他理财产品的投资收益比。
                          </p>
                          <p>
-                             <img src='<resources:imageHref name="image/tzsy.jpg" />' style="max-width:350px;overflow: hidden">
+                             <img src='<resources:imageHref name="image/tzsy.jpg" />' style="max-width:300px;overflow: hidden">
                          </p>
                      </section>
                  </section>
