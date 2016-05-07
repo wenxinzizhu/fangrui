@@ -16,6 +16,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
     <resources:css name="libs/weui.css,weixin/example.css" />
+    <resources:js name="libs/jquery-1.8.3.min.js" />
     <title>
         <sitemesh:write property='title'/>
     </title>

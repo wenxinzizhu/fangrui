@@ -7,7 +7,7 @@ package com.hbfangrui.shop.web.util;
 public class ResourcesUtil {
     private ResourcesUtil(){}
     public static String getJsHref(String name){
-        return getResourceHref(name);
+        return getResourceHref("js/" + name);
     }
 
     public static String getCssHref(String name){
